@@ -6,9 +6,8 @@
     <groupId>de.effective</groupId>
     <artifactId>spring</artifactId>
     <packaging>jar</packaging>
-    <name>Spring OSGi Bundle</name>
+    <name>Sunday night Spring Riddle</name>
     <version>1.0-SNAPSHOT</version>
-    <url>http://www.springframework.org/osgi</url>
 
     <properties>
         <slf4j.version>1.5.0</slf4j.version>
