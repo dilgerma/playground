@@ -1,3 +1,5 @@
+das wird weh tun!
 das sollte einen mergekonflikt erzeugen
+
 das wird mein zweiter commit
 das wird mein erster git commit
