@@ -1,0 +1,7 @@
+ha, mit git geht das!
+
+das geht auch einfacher!
+
+das wird mein zweiter commit
+das wird mein erster git commit
+egal
